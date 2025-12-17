@@ -46,9 +46,6 @@ muszą jednocześnie spełniać WCAG 2.1 AA.
 czas jej działania, uczestniczy w wyborze wykonawców, definiuje
 wytyczne, przyjmuje i rozpatruje skargi, zleca audyty oraz nadzoruje
 wyniki monitoringu.
-* Kierownik działu IT - zarządza serwerem i systemem CMS, utrzymuje
-repozytorium kodu, konfiguruje proces ciągłej integracji z testami WCAG
-i zapewnia działanie narzędzi monitorujących.
 * Zespół redakcyjny - publikuje treści zgodne z WCAG, dba o strukturę
 nagłówków, teksty alternatywne, nazwy elementów aktywnych i język
 prosty, bierze udział w przeglądach treści.
